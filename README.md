@@ -1,4 +1,14 @@
-## Hi there 👋
+## About Me  
+Hi, I’m **Sarina** 👋  
+I’m a **Software Engineer** building modern web applications with  
+**TypeScript, React, and Next.js**.  
+
+## GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)  
+
+## Top Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+
 
 <!--
 **Sarina-R/Sarina-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
