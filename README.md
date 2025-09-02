@@ -5,13 +5,18 @@
   Expanding into backend development to grow as a full-stack engineer.
 </p>
 
----
 
 ## 🚀 Tech Stack  
 **Frontend:** TypeScript · React · Next.js · TailwindCSS  
 **Backend (Learning):** Node.js · Express · PostgreSQL · REST APIs  
 
----
+
+## 📊 GitHub Insights  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarina-R&layout=donut&theme=github_dark&hide_border=true" alt="Top Langs" height="200"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarina-R&theme=github-compact&hide_border=true" alt="Activity Graph" height="200"/>
+</p>
+
 
 ## 🛠️ Languages & Tools  
 <p align="center">
@@ -24,12 +29,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</p>
-
----
-
-## 📊 GitHub Insights  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarina-R&layout=donut&theme=github_dark&hide_border=true" alt="Top Langs" height="200"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarina-R&theme=github-compact&hide_border=true" alt="Activity Graph" height="200"/>
 </p>
