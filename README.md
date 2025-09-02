@@ -10,7 +10,7 @@ Currently expanding my skills into **backend development** to become a well-roun
 
 
 ## Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarina-R&layout=compact&theme=dark)  
 
 
 <!--
